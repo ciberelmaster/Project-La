@@ -6,3 +6,7 @@ Is a web page of a social network, but not is a simple social network, is a soci
 This project is in open source please give a mensage to ciberelmaster if you want to colaborate us, we need people who wants a open source social network
 
 ===========================
+
+Act 09/03/2015
+
+Actualy we got a contribuitor in a Hackrom forum, Him is goes to work in another anonymous acount, we are working for a better main sheet and now we are in a 0,1% for the beta version.
