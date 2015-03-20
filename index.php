@@ -25,7 +25,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Project-La</h1>
-        <h4>Donde la gente con sus temas viene aqui a compartirlos, ¡Que esperas!</h>
+        <h4>Donde la gente con sus temas viene aqui a compartirlos, Que esperas!</h>
         <a href="singup.html">Registrate</a>
       </div>
     </div>
@@ -81,11 +81,12 @@
           <div class="col-md-4">
             <h3>Sobre nosotros</h3>
             <p>Lee sobre los creadores, sobre la comunidad y sobre el objetivo que tenemos con la pagina.</p>
-            <a href="about.html">¡Conoce YA!</a>
+            <a href="about.html">Conoce YA!</a>
           </div>
         </div>
       </div>
     </div>
+  <center>
       <address>
         <p><strong>Ciberelmaster</strong></p><br>
         <p>Roldanillo, Valle</p><br>
@@ -97,5 +98,6 @@
         <p><strong>Ciberelmaster</strong></p><br>
         <a href="mailto:ordinaryvicko@gmail.com">ordinaryvicko@gmail.com</a>
       </address>
+  </center>
   </body>
 </html>
