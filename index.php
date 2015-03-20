@@ -32,7 +32,7 @@
     
     <div class="neighborhood-guides">
       <div class="container">
-        <b><h2>¿Que puedes hacer en La?</h2></b>
+        <b><h2>Lo que hay en La.</h2></b>
         <p>Si tus gustos en internet son mundiales por que no probar en La</p>
         <div class="row">
           <div class="col-md-4">
@@ -69,13 +69,13 @@
           <div class="col-md-4">
             <h3>Registrate</h3>
             <p>Si te registras ahora en La, podras conocer a muchas personas que comparten tus mismos gustos.</p>
-            <a href="signup.html">¡Registrate YA!</a>
+            <a href="signup.html">Registrate YA!</a>
           </div>
           
           <div class="col-md-4">
             <h3>Entra ya</h3>
             <p>Si es que ya tienes una cuenta en La, ¿Por que no entras ya?, tus temas y amigos te esperan.</p>
-            <a href="login.html">¡Entra YA!</a>
+            <a href="login.html">Entra YA!</a>
           </div>
           
           <div class="col-md-4">
