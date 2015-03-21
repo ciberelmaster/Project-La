@@ -26,7 +26,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Project-La</h1>
-        <h4>Donde la gente con sus temas viene aqui a compartirlos, Que esperas!</h>
+        <p>Donde la gente con sus temas viene aqui a compartirlos, Que esperas!</p>
         <a href="singup.html">Registrate</a>
       </div>
     </div>
