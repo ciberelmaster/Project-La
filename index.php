@@ -75,7 +75,7 @@
           
           <div class="col-md-4">
             <h3>Entra ya</h3>
-            <p>Si es que ya tienes una cuenta en La, ¿Por que no entras ya?, tus temas y amigos te esperan.</p>
+            <p>Si es que ya tienes una cuenta en La, Por que no entras ya?, tus temas y amigos te esperan.</p>
             <a href="login.html">Entra YA!</a>
           </div>
           
