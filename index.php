@@ -11,13 +11,14 @@
     <div class="nav nav-tabs">
       <div class="container">
         <ul class="pull-left">
-          <li>PROJECT-La</li>
+          <li><span>PROJECT-La</span></li>
+          <li><a href="index.php">HOME</a></li>
         </ul>
         
         <ul class="pull-right">
-          <li><a href="signup.html">SIGN UP</a></li>
-          <li><a href="login.html">LOGIN</a></li>
-          <li><a href="about.html">ABOUT</a></li>
+          <li><a href="signup.php">SIGN UP</a></li>
+          <li><a href="login.php">LOGIN</a></li>
+          <li><a href="about.php">ABOUT</a></li>
         </ul>
       </div>
     </div>
