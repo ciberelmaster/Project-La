@@ -89,14 +89,14 @@
     </div>
   <center>
       <address>
-        <p><strong>Ciberelmaster</strong></p><br>
-        <p>Roldanillo, Valle</p><br>
-        <p>Colombia</p><br>
+        <p><strong>Ciberelmaster</strong></p>
+        <p>Roldanillo, Valle</p>
+        <p>Colombia</p>
         <abbr title="phone">P:</abbr>+57 229 5917
       </address>
    
       <address>
-        <p><strong>Ciberelmaster</strong></p><br>
+        <p><strong>Ciberelmaster</strong></p>
         <a href="mailto:ordinaryvicko@gmail.com">ordinaryvicko@gmail.com</a>
       </address>
   </center>
