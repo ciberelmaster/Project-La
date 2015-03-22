@@ -7,6 +7,6 @@ This project is in open source please give a mensage to ciberelmaster if you wan
 
 ===========================
 
-Act 09/03/2015
+Update 09/03/2015
 
-Actualy we got a contribuitor in a Hackrom forum, Him is goes to work in another anonymous acount, we are working for a better main sheet and now we are in a 0,1% for the beta version.
+Actualy we got a contribuitor in a  forum, Him is goes to work in another anonymous acount, we are working for a better main sheet and now we are in a 0,1% for the beta version.
