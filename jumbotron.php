@@ -2,6 +2,12 @@
   function jumbotron() {
 ?>
 <html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="main.css">
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css" rel="stylesheet">
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+  </head>
+<body>
   <div class="nav nav-tabs">
       <div class="container">
         <ul class="pull-left">
@@ -24,6 +30,7 @@
         <a href="singup.html">Registrate</a>
       </div>
     </div>
+  </body>
 </html>
 <?
   }
