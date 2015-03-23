@@ -11,4 +11,6 @@
 <?
   jumbotron();
 ?>
+<html>
+</html>
 
