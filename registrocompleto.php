@@ -4,5 +4,9 @@
   jumbotron();
   
   $hostname = "localhost";
-  $database = "projectla"
+  $database = "projectla";
+  $username = "root";
+  $password = "123456";
+  
+  
 ?>
