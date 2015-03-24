@@ -10,3 +10,9 @@ This project is in open source please give a mensage to ciberelmaster if you wan
 Update 09/03/2015
 
 Actualy we got a contribuitor in a  forum, Him is goes to work in another anonymous acount, we are working for a better main sheet and now we are in a 0,1% for the beta version.
+
+============================
+
+Update 24/03/2015
+
+Actualy we start with the PHP Coding, and first we start making the Sign up page for better aplication of the netwrok; but unfortunately we don have the people to work hard in this project.
