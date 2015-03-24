@@ -1,6 +1,8 @@
 <?
   include('jumbotron.php');
   
-  $hostname = "localhost";
+  jumbotron();
   
+  $hostname = "localhost";
+  $database = "projectla"
 ?>
