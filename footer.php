@@ -1,0 +1,8 @@
+<?
+  function footer() {
+?>
+<html>
+</html>
+<?
+  }
+?>
