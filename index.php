@@ -1,5 +1,6 @@
 <?
   include('jumbotron.php');
+  include('footer.php');
 ?>
 <html>
   <head>
@@ -70,19 +71,9 @@
         </div>
       </div>
     </div>
-      <center>
-          <address>
-            <p><strong>Ciberelmaster</strong></p>
-            <p>Roldanillo, Valle</p>
-            <p>Colombia</p>
-            <abbr title="phone">P:</abbr>+57 229 5917
-          </address>
-       
-          <address>
-            <p><strong>Ciberelmaster</strong></p>
-            <a href="mailto:ordinaryvicko@gmail.com">ordinaryvicko@gmail.com</a>
-          </address>
-      </center>
   </body>
 </html>
+<?
+  footer();
+?>
 
