@@ -1,5 +1,7 @@
 <?
-  include('jumbotron.php')
+  include('jumbotron.php');
+  include('footer.php');
+?>
 <html>
   <head>
     <title>La.com</title>
@@ -13,4 +15,6 @@
 ?>
 <html>
 </html>
-
+<?
+  footer();
+?>
