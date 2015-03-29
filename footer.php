@@ -9,6 +9,11 @@
 </head>
 <body>
   <div class="container">
+    <div class="site-footer" role="contentinfo">
+      <ul class="site-footer-links right">
+        
+      </ul>
+    </div>
   </div>
 </body>
 </html>
