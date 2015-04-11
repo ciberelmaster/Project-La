@@ -14,6 +14,10 @@
   jumbotron();
 ?>
 <html>
+  <div class="raw">
+    <div clas="container">
+    </div>
+  </div>
 </html>
 <?
   footer();
