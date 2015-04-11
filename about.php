@@ -14,7 +14,7 @@
   jumbotron();
 ?>
 <html>
-  <div class="raw">
+  <div class="row">
     <div clas="container">
     </div>
   </div>
