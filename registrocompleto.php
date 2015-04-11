@@ -1,5 +1,6 @@
 <?
   include('jumbotron.php');
+  include('footer.php');
   
   jumbotron();
   
@@ -8,5 +9,5 @@
   $username = "root";
   $password = "123456";
   
-  
+  footer();
 ?>
