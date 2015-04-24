@@ -17,7 +17,7 @@
         
         <ul class="pull-right">
           <li><a href="signup.php">SIGN UP</a></li>
-          <li><a href="login.php">LOGIN</a></li>
+          <li><a href="signin.php">SIGN IN</a></li>
           <li><a href="about.php">ABOUT</a></li>
         </ul>
       </div>
