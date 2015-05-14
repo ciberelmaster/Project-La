@@ -13,7 +13,9 @@
   
   mysql_select_db($database, $x);
   
-  $qry = 
+  $qry = "insert into snone value()";
+  $mostrar_qry = mysql_query($qry, $x) or die("Error en el ingreso.");
+  echo "Regsitrado con exito";
   
   footer();
 ?>
